@@ -30,4 +30,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT :="google/coral/coral:11/RQ3A.211001.001/7641976:user/release-keys"
 
-
+#Now Official
+KRAKEN_BUILD_TYPE := OFFICIAL
