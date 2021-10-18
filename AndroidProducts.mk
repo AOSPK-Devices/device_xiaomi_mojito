@@ -5,9 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fluid_mojito.mk
+    $(LOCAL_DIR)/aosp_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    fluid_mojito-eng \
-    fluid_mojito-userdebug \
-    fluid_mojito-eng
+    aosp_mojito-eng \
+    aosp_mojito-userdebug \
+    aosp_mojito-eng
+

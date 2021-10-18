@@ -1,0 +1,32 @@
+[
+ {
+   "repository" : "device_xiaomi_mojito-common",
+   "target_path" : "device/xiaomi/sm6150-common",
+   "remote" : "AOSPK-Devices",
+   "branch" : "twelve"
+ },
+ {
+   "repository" : "kernel_xiaomi_mojito",
+   "target_path" : "kernel/xiaomi/sm6150",
+   "remote" : "AOSPK-Devices",
+   "branch" : "twelve"
+ },
+ {
+   "repository" : "vendor_xiaomi_mojito",
+   "target_path" : "vendor/xiaomi/mojito",
+   "remote" : "TheBootloops",
+   "branch" : "twelve"
+ },
+ {
+   "repository" : "vendor_xiaomi_mojito-common",
+   "target_path" : "vendor/xiaomi/sm6150-common",
+   "remote" : "TheBootloops",
+   "branch" : "twelve"
+ },
+ {
+   "repository" : "PixelExperience/packages_resources_devicesettings-custom",
+   "target_path" : "packages/resources/devicesettings-custom",
+   "remote" : "github",
+   "branch" : "eleven"
+ }
+]
