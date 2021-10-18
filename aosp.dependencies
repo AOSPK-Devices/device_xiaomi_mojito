@@ -1,26 +1,26 @@
 [
  {
-   "repository" : "device_xiaomi_mojito-common",
+   "repository" : "AOSPK-Devices/device_xiaomi_mojito-common",
    "target_path" : "device/xiaomi/sm6150-common",
-   "remote" : "AOSPK-Devices",
+   "remote" : "github",
    "branch" : "twelve"
  },
  {
-   "repository" : "kernel_xiaomi_mojito",
+   "repository" : "AOSPK-Devices/kernel_xiaomi_mojito",
    "target_path" : "kernel/xiaomi/sm6150",
-   "remote" : "AOSPK-Devices",
+   "remote" : "github",
    "branch" : "twelve"
  },
  {
-   "repository" : "vendor_xiaomi_mojito",
+   "repository" : "TheBootloops/vendor_xiaomi_mojito",
    "target_path" : "vendor/xiaomi/mojito",
-   "remote" : "TheBootloops",
+   "remote" : "github",
    "branch" : "twelve"
  },
  {
-   "repository" : "vendor_xiaomi_mojito-common",
+   "repository" : "TheBootloops/vendor_xiaomi_mojito-common",
    "target_path" : "vendor/xiaomi/sm6150-common",
-   "remote" : "TheBootloops",
+   "remote" : "github",
    "branch" : "twelve"
  },
  {
@@ -28,5 +28,11 @@
    "target_path" : "packages/resources/devicesettings-custom",
    "remote" : "github",
    "branch" : "eleven"
- }
+ },
+ {
+   "repository" : "ArrowOS-Devices/android_hardware_xiaomi",    
+   "target_path": "hardware/xiaomi",
+   "branch"     : "arrow-12.0",
+   "remote"     : "github"
+  }
 ]
